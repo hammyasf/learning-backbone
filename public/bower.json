@@ -1,0 +1,30 @@
+{
+  "name": "Leanring Backbone",
+  "authors": [
+    "Harman Kamboj <playcivil@gmail.com>"
+  ],
+  "description": "Just learning backbone.js nothing fancy here!",
+  "main": "index.hmtl",
+  "moduleType": [],
+  "keywords": [
+    "backbone",
+    "harman",
+    "kamboj"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.1",
+    "backbone": "^1.3.1",
+    "underscore": "^1.8.3",
+    "bootstrap": "^3.3.6"
+  }
+}
